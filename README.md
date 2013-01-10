@@ -6,8 +6,8 @@ Website for The Rathcormac Inn. This project is to familiarize Donna and Colin w
 Resources in use:
 ----------------
 
-- Github
+- Github - Managed by Donna
 
-- DeployHQ
+- DeployHQ - Managed by Colin (through Murrion DeployHQ)
 
 - Jan 9th added: Google Analytics
